@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -22,5 +23,5 @@
   "dependencies": {
     "@imooc-cli/utils": "^1.1.1"
   },
-  "gitHead": "9663aa5e6e52960d1ca95d0067d39129f63aae53"
+  "gitHead": "c6de964891bbbabeaab62c662fb73c903a929ac2"
 }
