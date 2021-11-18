@@ -1,0 +1,25 @@
+{
+  "name": "@bwf/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "fan.wu <fan.wu@yunzhanghu.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry-npm.yunzhanghu.net/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@imooc-cli/utils": "^1.1.1"
+  }
+}
