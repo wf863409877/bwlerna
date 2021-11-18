@@ -1,9 +1,4 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org"
-  },
+  "packages": ["packages/*"],
   "version": "0.0.4"
 }
