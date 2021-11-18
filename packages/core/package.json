@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry-npm.yunzhanghu.net/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -22,5 +22,5 @@
   "dependencies": {
     "@imooc-cli/utils": "^1.1.1"
   },
-  "gitHead": "0de4a002d65b501514f147af2563f29b1b7e9b61"
+  "gitHead": "65ed9a5ec2750fa92df138604f997b684ab1daaf"
 }
